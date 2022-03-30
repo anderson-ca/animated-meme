@@ -6,8 +6,7 @@ import ThreeCanvas from '../components/ThreeCanvas';
 export default function Home() {
   return (
     <div className={styles.SPA}>
-      <ThreeCanvas />
-      {/* hero */}
+      {/* <ThreeCanvas /> */}
       {/* about */}
     </div>
   )
